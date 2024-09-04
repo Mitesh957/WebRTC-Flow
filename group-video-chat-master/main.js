@@ -1,6 +1,6 @@
 const APP_ID = "e4f645f2b6a94120bb8ecd247bebc6d6"
-const TOKEN = "007eJxTYPiSPmm3T4Ajl8HB2Ynb9Ksbfga+aDK+pM5YIHDM2NavpUaBIdUkzczENM0oySzR0sTQyCApySI1OcXIxDwpNSnZLMVs3u6raQ2BjAxxi4yYGRkgEMRnYXDxDYtkYAAAC9sehw=="
-const CHANNEL = "DMVY"
+const TOKEN = "007eJxTYBB1Wjxrmu0+8+oTJQ9LYvaoSF2cFXmitveOKlff/i0fDDwVGFJN0sxMTNOMkswSLU0MjQySkixSk1OMTMyTUpOSzVLMxJ1upDUEMjL8tBJgZGSAQBCfjcE3syS1OIOBAQCbwiBN"
+const CHANNEL = "Mitesh"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
